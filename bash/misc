@@ -6,3 +6,6 @@ ONBOOT=no to ONBOOT=yes
 
 #reboot
 shutdown -r now
+
+#get ip address
+hostname -I
